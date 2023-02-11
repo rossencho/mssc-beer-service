@@ -1,4 +1,4 @@
-package com.example.msscbeerservice.web.model;
+package com.example.msscbeerservice.web.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
