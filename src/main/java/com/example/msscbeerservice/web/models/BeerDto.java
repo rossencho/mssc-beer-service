@@ -30,14 +30,12 @@ public class BeerDto {
 
     @NotBlank
     private String beerName;
-    @NotNull
+
     private BeerStyleEnum beerStyle;
     @Positive
-    @NotNull
     private Long upc;
 
     @Positive
-    @NotNull
     private BigDecimal price;
     private Integer quantityAtHand;
 
